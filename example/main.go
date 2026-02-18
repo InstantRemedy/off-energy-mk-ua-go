@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	oblenergo "off-energy-mk-ua"
+	oblenergo "github.com/InstantRemedy/off-energy-mk-ua-go"
 )
 
 func main() {

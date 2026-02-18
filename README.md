@@ -1,11 +1,11 @@
-# off-energy-mk-ua
+# off-energy-mk-ua-go
 
 Go library for communicating with the [Mykolaiv Oblenergo](https://off.energy.mk.ua/) power outage API.
 
 ## Installation
 
 ```bash
-go get off-energy-mk-ua
+go get github.com/InstantRemedy/off-energy-mk-ua-go
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ import (
 	"fmt"
 	"log"
 
-	oblenergo "off-energy-mk-ua"
+	oblenergo "github.com/InstantRemedy/off-energy-mk-ua-go"
 )
 
 func main() {
